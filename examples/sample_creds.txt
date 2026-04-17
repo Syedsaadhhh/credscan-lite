@@ -1,0 +1,5 @@
+user1@gmail.com:123456
+user2@gmail.com:qwerty
+user3@gmail.com:StrongPass!22
+user4@gmail.com:123456
+admin@corp.com:admin123
